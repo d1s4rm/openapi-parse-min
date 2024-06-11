@@ -11,4 +11,4 @@ We are parsing the following for each api call discovered by openAPI
 
 1. `git clone https://github.com/d1s4rm/openapi-parse-min`
 2. `cd openapi-parse-min`
-3. `python3 openapi-parse-min <path-to-file-name>`
+3. `python3 openapi-parse-min.py <path-to-file-name>`
